@@ -74,3 +74,10 @@ public class HelloController {
         return "This is a secured endpoint. You are authenticated!";
     }
 }
+### OUTPUT
+<img width="1005" height="661" alt="image" src="https://github.com/user-attachments/assets/04e27610-6b8f-4ffd-9acb-05e86abbaba7" />
+
+<img width="1000" height="655" alt="image" src="https://github.com/user-attachments/assets/6a481c3c-ed73-42ae-972f-40133bee87b3" />
+
+### RESULT
+Thus,the program for setting up Spring Security in a Spring Boot project to secure endpoints with basic authentication and role-based access control implemented and executed successfully.
